@@ -1764,8 +1764,8 @@
             "header": "编辑消息",
             "invite_message_tab": "邀请",
             "invite_request_tab": "申请加入",
-            "invite_request_response_tab": "回绝加入申请",
-            "invite_response_tab": "回绝邀请"
+            "invite_request_response_tab": "拒绝加入申请",
+            "invite_response_tab": "拒绝邀请"
         },
         "invite_message": {
             "header": "发送消息",
@@ -2076,7 +2076,7 @@
             "load_failed": "加载群组失败"
         },
         "invite": {
-            "self_sent": "已发送自我邀请",
+            "self_sent": "发送自我邀请",
             "sent": "已发送邀请",
             "message_update_failed": "VRChat API 未能更新消息，请重试"
         },
